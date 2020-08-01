@@ -1,6 +1,6 @@
 import datetime
 from datetime import timedelta
-import time# %%
+import time
 class Timer():
     def __init__(self, start_time = None, time_ellapsed = None):
         self.start_time = start_time

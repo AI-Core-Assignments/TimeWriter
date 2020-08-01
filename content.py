@@ -17,7 +17,3 @@ class Content():
         return flat
 
 
-a = Content()
-print(a.factorial(5))
-
-print(a.flatten_list([[1,2,3], [2,4], [3,1,2]]))

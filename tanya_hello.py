@@ -1,1 +1,1 @@
-print ('Hello world, this is Tanya')
+print ('Hello world, this is Tanya.')

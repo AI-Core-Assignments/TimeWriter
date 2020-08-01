@@ -17,7 +17,3 @@ class Timer():
         time_difference = timedelta.total_seconds(self.time_ellapsed - self.start_time)
         print("{} seconds".format(time_difference))
         
-timer = Timer()
-timer.start_timer()
-timer.end_timer()
-timer.formatting_seconds()
